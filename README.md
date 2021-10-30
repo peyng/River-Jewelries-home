@@ -55,10 +55,10 @@ font-size: 1.5em;
 　　　　　　padding: 10px;}
  -->
 /* design*/
-#content01_bg {background-image: url(https://peyng.github.io/miya_street_gig_2021/20210522038.JPG);}
-#content02_bg {background-image: url(https://peyng.github.io/miya_jazz_inn/back.JPG);}
+#content01_bg {background-image: url(https://peyng.github.io/miya_street_gig_2021/2021back.JPG);}
+#content02_bg {background-image: url(https://peyng.github.io/miya_street_gig_2021/20210522038.JPG);}
+#content03_bg {background-image: url(https://peyng.github.io/miya_jazz_inn/back.JPG);}
 <!--
-#content03_bg {background-image: url(https://torokoid.github.io/fts_furuhashi/20190417_002.jpg);}
 #content04_bg {background-image: url(https://torokoid.github.io/mahoroba/6754.JPG);}
 #content05_bg {background-image: url(https://torokoid.github.io/mahoroba/283.JPG);}
 #content06_bg {background-image: url(https://torokoid.github.io/mahoroba/454.JPG);}   
@@ -126,8 +126,8 @@ a{color: #fff;}
         <div id="content01_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">Miya street gig 2021<!--&ensp;&ensp;&ensp;&ensp;<img src="https://torokoid.github.io/fts/QR_mahoroba_home.png" alt="アクセス用QRコード" width="80">--></p>
-                <a href="https://peyng.github.io/miya_street_gig_2021/">Miya street gig 2021リンク</a>
+                <p class="catch">Miya jazz inn 2021<!--&ensp;&ensp;&ensp;&ensp;<img src="https://torokoid.github.io/fts/QR_mahoroba_home.png" alt="アクセス用QRコード" width="80">--></p>
+                <a href="https://peyng.github.io/miya_jazz_inn_2021/">Miya jaza inn 2021リンク</a>
             </div>
         </div>
     </div><!-- content01 -->
@@ -135,19 +135,18 @@ a{color: #fff;}
         <div id="content02_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">Miya jazz inn 2020</p>
-                <a href="https://peyng.github.io/miya_jazz_inn/">Miya jazz inn 2020リンク</a>
+                <p class="catch">Miya street gig 2021<!--&ensp;&ensp;&ensp;&ensp;<img src="https://torokoid.github.io/fts/QR_mahoroba_home.png" alt="アクセス用QRコード" width="80">--></p>
+                <a href="https://peyng.github.io/miya_street_gig_2021/">Miya street gig 2021リンク</a>
             </div>
         </div>
     </div><!-- content02 -->
   
-<!--  
     <div id="content03" class="contents">
         <div id="content03_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">伊藤さん、矢口さん、小林実さん合同ご卒業記念</p>
-                <a href="https://torokoid.github.io/fts_ito/">伊藤さん、矢口さん、小林実さん合同ご卒業記念リンク</a>
+                <p class="catch">Miya jazz inn 2020</p>
+                <a href="https://peyng.github.io/miya_jazz_inn/">Miya jazz inn 2020リンク</a>
              </div>
         </div>
     </div><!-- content03 -->
