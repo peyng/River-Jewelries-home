@@ -55,7 +55,7 @@ font-size: 1.5em;
 　　　　　　padding: 10px;}
  -->
 /* design*/
-#content01_bg {background-image: url(https://peyng.github.io/miya_street_gig_2021/2021back.JPG);}
+#content01_bg {background-image: url(https://peyng.github.io/miya_jazz_inn_2021/20211030_005.jpg);}
 #content02_bg {background-image: url(https://peyng.github.io/miya_street_gig_2021/20210522038.JPG);}
 #content03_bg {background-image: url(https://peyng.github.io/miya_jazz_inn/back.JPG);}
 <!--
