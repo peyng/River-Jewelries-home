@@ -127,7 +127,7 @@ a{color: #fff;}
         <div id="content01_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">わくわくコンサート2022<!--&ensp;&ensp;&ensp;&ensp;<img src="https://torokoid.github.io/fts/QR_mahoroba_home.png" alt="アクセス用QRコード" width="80">--></p>
+                <h2 class="catch">わくわくコンサート2022<!--&ensp;&ensp;&ensp;&ensp;<img src="https://torokoid.github.io/fts/QR_mahoroba_home.png" alt="アクセス用QRコード" width="80">--></h2>
                 <a href="https://peyng.github.io/2022criterium/">わくわくコンサート 2022リンク</a>
             </div>
         </div>
