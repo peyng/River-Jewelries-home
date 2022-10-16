@@ -55,12 +55,11 @@ font-size: 1.5em;
 　　　　　　padding: 10px;}
  -->
 /* design*/
-#content04_bg {background-image: url(https://peyng.github.io/2022criterium/20221015criterium.png);}
 #content01_bg {background-image: url(https://peyng.github.io/miya_jazz_inn_2021/20211030_005.jpg);}
 #content02_bg {background-image: url(https://peyng.github.io/miya_street_gig_2021/20210522038.JPG);}
-#content03_bg {background-image: url(https://peyng.github.io/miya_jazz_inn/back.JPG);}
+#content03_bg {background-image: url(https://peyng.github.io/miya_jazz_inn/back.JPG);
+#content04_bg {background-image: url(https://peyng.github.io/2022criterium/20221015criterium.png);}
 <!--
-#content04_bg {background-image: url(https://torokoid.github.io/mahoroba/6754.JPG);}
 #content05_bg {background-image: url(https://torokoid.github.io/mahoroba/283.JPG);}
 #content06_bg {background-image: url(https://torokoid.github.io/mahoroba/454.JPG);}   
 #content07_bg {background-image: url(https://torokoid.github.io/mahoroba_2018/20180810_097.JPG);}
