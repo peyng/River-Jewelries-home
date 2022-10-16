@@ -127,7 +127,7 @@ a{color: #fff;}
         <div id="content01_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <h2 class="catch">わくわくコンサート2022<!--&ensp;&ensp;&ensp;&ensp;<img src="https://torokoid.github.io/fts/QR_mahoroba_home.png" alt="アクセス用QRコード" width="80">--></h2>
+                <h1 class="catch">わくわくコンサート2022<!--&ensp;&ensp;&ensp;&ensp;<img src="https://torokoid.github.io/fts/QR_mahoroba_home.png" alt="アクセス用QRコード" width="80">--></h1>
                 <a href="https://peyng.github.io/2022criterium/">わくわくコンサート 2022リンク</a>
             </div>
         </div>
@@ -138,7 +138,7 @@ a{color: #fff;}
         <div id="content02_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">Miya jazz inn 2021<!--&ensp;&ensp;&ensp;&ensp;<img src="https://torokoid.github.io/fts/QR_mahoroba_home.png" alt="アクセス用QRコード" width="80">--></p>
+                <h1 class="catch">Miya jazz inn 2021<!--&ensp;&ensp;&ensp;&ensp;<img src="https://torokoid.github.io/fts/QR_mahoroba_home.png" alt="アクセス用QRコード" width="80">--></h1>
                 <a href="https://peyng.github.io/miya_jazz_inn_2021/">Miya jaza inn 2021リンク</a>
             </div>
         </div>
@@ -148,7 +148,7 @@ a{color: #fff;}
         <div id="content03_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">Miya street gig 2021<!--&ensp;&ensp;&ensp;&ensp;<img src="https://torokoid.github.io/fts/QR_mahoroba_home.png" alt="アクセス用QRコード" width="80">--></p>
+                <h1 class="catch">Miya street gig 2021<!--&ensp;&ensp;&ensp;&ensp;<img src="https://torokoid.github.io/fts/QR_mahoroba_home.png" alt="アクセス用QRコード" width="80">--></h1>
                 <a href="https://peyng.github.io/miya_street_gig_2021/">Miya street gig 2021リンク</a>
             </div>
         </div>
@@ -158,7 +158,7 @@ a{color: #fff;}
         <div id="content04_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">Miya jazz inn 2020</p>
+                <h1 class="catch">Miya jazz inn 2020</h1>
                 <a href="https://peyng.github.io/miya_jazz_inn/">Miya jazz inn 2020リンク</a>
              </div>
         </div>
