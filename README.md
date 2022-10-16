@@ -120,6 +120,7 @@ a{color: #fff;}
     <script type="text/javascript" src="f.txt"></script>
     <link rel="preload" href="https://pagead2.googlesyndication.com/pagead/js/r20190424/r20190131/show_ads_impl.js" as="script">
     </head>
+    
 <body>
 <section id="contents">
     <div id="content01" class="contents show">
