@@ -142,6 +142,7 @@ a{color: #fff;}
             </div>
         </div>
     </div><!-- content02 -->
+    
     <div id="content03" class="contents">
         <div id="content03_bg" class="background"></div>
         <div class="wrap">
@@ -161,6 +162,7 @@ a{color: #fff;}
              </div>
         </div>
     </div><!-- content04 -->
+    
 <!--
 <div id="content04" class="contents">
         <div id="content04_bg" class="background"></div>
