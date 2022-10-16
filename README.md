@@ -55,10 +55,10 @@ font-size: 1.5em;
 　　　　　　padding: 10px;}
  -->
 /* design*/
-#content04_bg {background-image: url(https://peyng.github.io/2022criterium/20221015criterium.png);}
-#content01_bg {background-image: url(https://peyng.github.io/miya_jazz_inn_2021/20211030_005.jpg);}
-#content02_bg {background-image: url(https://peyng.github.io/miya_street_gig_2021/20210522038.JPG);}
-#content03_bg {background-image: url(https://peyng.github.io/miya_jazz_inn/back.JPG);
+#content01_bg {background-image: url(https://peyng.github.io/2022criterium/20221015criterium.png);}
+#content02_bg {background-image: url(https://peyng.github.io/miya_jazz_inn_2021/20211030_005.jpg);}
+#content03_bg {background-image: url(https://peyng.github.io/miya_street_gig_2021/20210522038.JPG);}
+#content04_bg {background-image: url(https://peyng.github.io/miya_jazz_inn/back.JPG);
 <!--
 #content05_bg {background-image: url(https://torokoid.github.io/mahoroba/283.JPG);}
 #content06_bg {background-image: url(https://torokoid.github.io/mahoroba/454.JPG);}   
@@ -122,45 +122,45 @@ a{color: #fff;}
     </head>
 <body>
 <section id="contents">
-    <div id="content04" class="contents show">
-        <div id="content04_bg" class="background"></div>
+    <div id="content01" class="contents show">
+        <div id="content01_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
                 <p class="catch">わくわくコンサート2022<!--&ensp;&ensp;&ensp;&ensp;<img src="https://torokoid.github.io/fts/QR_mahoroba_home.png" alt="アクセス用QRコード" width="80">--></p>
                 <a href="https://peyng.github.io/2022criterium/">わくわくコンサート 2022リンク</a>
             </div>
         </div>
-    </div><!-- content04 -->
+    </div><!-- content01 -->
 
 <section id="contents">
-    <div id="content01" class="contents show">
-        <div id="content01_bg" class="background"></div>
+    <div id="content02" class="contents show">
+        <div id="content02_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
                 <p class="catch">Miya jazz inn 2021<!--&ensp;&ensp;&ensp;&ensp;<img src="https://torokoid.github.io/fts/QR_mahoroba_home.png" alt="アクセス用QRコード" width="80">--></p>
                 <a href="https://peyng.github.io/miya_jazz_inn_2021/">Miya jaza inn 2021リンク</a>
             </div>
         </div>
-    </div><!-- content01 -->
-    <div id="content02" class="contents">
-        <div id="content02_bg" class="background"></div>
+    </div><!-- content02 -->
+    <div id="content03" class="contents">
+        <div id="content03_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
                 <p class="catch">Miya street gig 2021<!--&ensp;&ensp;&ensp;&ensp;<img src="https://torokoid.github.io/fts/QR_mahoroba_home.png" alt="アクセス用QRコード" width="80">--></p>
                 <a href="https://peyng.github.io/miya_street_gig_2021/">Miya street gig 2021リンク</a>
             </div>
         </div>
-    </div><!-- content02 -->
+    </div><!-- content03 -->
   
-    <div id="content03" class="contents">
-        <div id="content03_bg" class="background"></div>
+    <div id="content04" class="contents">
+        <div id="content04_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
                 <p class="catch">Miya jazz inn 2020</p>
                 <a href="https://peyng.github.io/miya_jazz_inn/">Miya jazz inn 2020リンク</a>
              </div>
         </div>
-    </div><!-- content03 -->
+    </div><!-- content04 -->
 <!--
 <div id="content04" class="contents">
         <div id="content04_bg" class="background"></div>
