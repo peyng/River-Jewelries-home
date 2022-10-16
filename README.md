@@ -55,7 +55,7 @@ font-size: 1.5em;
 　　　　　　padding: 10px;}
  -->
 /* design*/
-#content04_bg {background-image: url(https://peyng.github.io/2022criterium/20221015criterium.png);}
+#content04_bg {background-image: url(https://peyng.github.io/2022criterium/2022criterium.png);}
 #content01_bg {background-image: url(https://peyng.github.io/miya_jazz_inn_2021/20211030_005.jpg);}
 #content02_bg {background-image: url(https://peyng.github.io/miya_street_gig_2021/20210522038.JPG);}
 #content03_bg {background-image: url(https://peyng.github.io/miya_jazz_inn/back.JPG);}
@@ -128,7 +128,7 @@ a{color: #fff;}
         <div class="wrap">
             <div class="text-box">
                 <p class="catch">わくわくコンサート2022<!--&ensp;&ensp;&ensp;&ensp;<img src="https://torokoid.github.io/fts/QR_mahoroba_home.png" alt="アクセス用QRコード" width="80">--></p>
-                <a href="https://peyng.github.io/20221015criterium/">わくわくコンサート 2022リンク</a>
+                <a href="https://peyng.github.io/2022criterium/">わくわくコンサート 2022リンク</a>
             </div>
         </div>
     </div><!-- content04 -->
