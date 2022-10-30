@@ -55,7 +55,7 @@ font-size: 1.5em;
 　　　　　　padding: 10px;}
  -->
 /* design*/
-https://peyng.github.io/miya-jazz-inn-2022/
+
 #content01_bg {background-image: url(https://peyng.github.io/miya-jazz-inn-2022/20221030_001.JPG);}
 #content02_bg {background-image: url(https://peyng.github.io/2022criterium/20221015criterium.png);}
 #content03_bg {background-image: url(https://peyng.github.io/miya_jazz_inn_2021/20211030_005.jpg);}
